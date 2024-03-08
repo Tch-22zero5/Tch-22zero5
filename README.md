@@ -21,7 +21,7 @@
 
 ### :technologist: About Me :
 I am an AWS Cloud Solutions Architect (Associate) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Cloud Engineer, providing tech Solutions and helping Organizations migrate & manage their cloud infrastructure on AWS.
+- :telescope: I’m working as a Cloud Architect/practitioner/tutor, providing tech Solutions and helping Organizations migrate & manage their cloud infrastructure on AWS.
 
 - :seedling: Exploring Linux OS, Containers, CI/CD & other programming languages.
 
