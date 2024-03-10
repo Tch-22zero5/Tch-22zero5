@@ -48,5 +48,5 @@ I am an AWS Cloud Solutions Architect (Associate) <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
 </div>
 
-__*Check out my projects and follow my journey Thanks.*__  
+__*Check my Repositories for my AWS projects and follow my journey Thanks.*__  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
