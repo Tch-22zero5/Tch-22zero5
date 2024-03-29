@@ -20,8 +20,8 @@
 ---
 
 ### :technologist: About Me :
-I am an AWS Cloud Solutions Architect (Associate) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Cloud Architect/practitioner/tutor, providing tech Solutions and helping Organizations migrate & manage their cloud infrastructure on AWS.
+I am a Cloud Solutions Architect (Associate) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m working as a Cloud Architect/practitioner/tutor, providing tech Solutions and helping Organizations migrate & manage their cloud infrastructure with my Multi Cloud knowledge.
 
 - :seedling: Exploring Linux OS, Containers, CI/CD & other programming languages.
 
@@ -48,5 +48,5 @@ I am an AWS Cloud Solutions Architect (Associate) <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
 </div>
 
-__*Check my Repositories for my AWS projects and follow my journey Thanks.*__  
+__*Check my Repositories for my AWS and multi-cloud projects and follow my journey Thanks.*__  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
